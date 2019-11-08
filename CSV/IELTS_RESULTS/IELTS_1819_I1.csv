@@ -1,0 +1,297 @@
+﻿CANDIDATE_NO,STUDENT_ID,NAME,OTHER_NAMES,SURNAME,email,CANDIDATE_ID,Phone #,Class,L,R,W,S,BS,Date Taken
+1,1703138,Hamed,Salim Nasser,Alhajri ,1703138@mtc.edu.om,22048351,93624700,6.03,4,4.5,5,4.5,4.5,2019-04-06
+2,1705088,Ibrahim,Marhoun Khalfan,Alabri,1705088@mtc.edu.om,26350334,99060579,6.03,4,4,5,5,4.5,2019-04-06
+3,1703004,Abdulrahman,Hamood 'Abdul Rahman Younis,Al 'Amri,1703004@mtc.edu.om,28003282,93299552,6.13,5,4,5,5.5,5,2019-04-06
+4,1702286,Asaad,Mohammed  Ali,Alamri,1702286@mtc.edu.om,25098229,94243313,6.11,4.5,4.5,5,4.5,4.5,2019-04-06
+5,1701004,Hisham,Fahad Mohamed,Al Abdali,1701004@mtc.edu.om,14658055,96290443,6.10,4.5,4,4.5,4.5,4.5,2019-04-06
+6,1702019,Hazaa,Rashid Khamis Salim,Al Abri,1702019@mtc.edu.om,26907594,94255885,6.06,4.5,5,4.5,4.5,4.5,2019-04-06
+7,1803184,Majid,Abdullah Sulaiyam  ,Al Abri,1803184@mtc.edu.om,12835496,97174087,6.15,4.5,4.5,5.5,5.5,5,2019-04-06
+8,1705018,Muntaser,Salim Rashid Khamis,Al Abri,1705018@mtc.edu.om,27724557,99820089,6.11,4,5,5,4.5,4.5,2019-04-06
+9,1702003,Turki,Said Khalifa Salmeen,Al Aghbari,1702003@mtc.edu.om,19033801,91965577,6.06,4.5,4.5,5,4.5,4.5,2019-04-06
+10,1802063,Ahmed,Abdullah Mohammed  ,Al Aisari,1802063@mtc.edu.om,13228261,97465333,6.04,5.5,5,5,5.5,5.5,2019-04-06
+11,1704074,Ahmed,Jasim Mohammed Khamis,Al Ajmi,1704074@mtc.edu.om,14176091,91187883,6.12,4.5,4.5,4.5,4,4.5,2019-04-06
+12,1704022,Salim,Mahmood Salim,Al Amri,1704022@mtc.edu.om,26681709,94025591,6.03,4.5,4.5,4.5,4,4.5,2019-04-06
+13,1803031,Suhaib,Abdullah Khamis  ,Al Amri,1803031@mtc.edu.om,13417301,94242988,6.01,4.5,4.5,4.5,5,4.5,2019-04-06
+14,1702152,Abdallah,Mubarak Salim,Al Badri,1702152@mtc.edu.om,12233257,99246357,6.05,4.5,4,4.5,4.5,4.5,2019-04-06
+15,1702332,Majdi ,Saleem  Abdullah,Albadwi ,1702332@mtc.edu.om,26159101,96560984,6.08,4.5,4.5,5,5,5,2019-04-06
+16,1803096,Faisal,Said Nasser  ,Al Bakri,1803096@mtc.edu.om,13730207,94740461,6.15,6,4.5,5,6.5,5.5,2019-04-06
+17,1801002,Abdallah,Mohammed Khalfan,Al Balushi,1801002@mtc.edu.om,18996719,79442642,6.06,5,4.5,5,5.5,5,2019-04-06
+18,1802042,Affan,Ali Faqeer  ,Al Balushi,1802042@mtc.edu.om,14003782,99055181,6.01,5,4.5,5,4,4.5,2019-04-06
+19,1702223,Bandar,Abdullah Sabil,Al Balushi,1702223@mtc.edu.om,14400317,92720749,6.13,4.5,5,4.5,5.5,5,2019-04-06
+20,1802250,Hamed,Ismail Murad Ali ,Al Balushi,1802250@mtc.edu.om,19755934,97217704,6.02,5.5,5,5,5,5,2019-04-06
+21,1702012,Khalifa,Ahmed Humaid,Al Balushi,1702012@mtc.edu.om,13819921,91716999,6.08,4,4.5,4.5,4.5,4.5,2019-04-06
+22,1705005,Marwan,Abdullah Khalfan,Al Balushi,1705005@mtc.edu.om,13074018,92858068,6.10,4.5,4.5,4.5,4.5,4.5,2019-04-06
+23,1804016,Shihab,Ali Abdallah  ,Al Balushi,1804016@mtc.edu.om,13170949,95909292,6.01,5,4.5,4.5,5.5,5,2019-04-06
+24,1804021,Sultan,Mohammed Humaid Juma ,Al Balushi,1804021@mtc.edu.om,13651105,99145503,6.08,5,4.5,5.5,6,5.5,2019-04-06
+25,1704079,Yousuf,Jamil Awadh,Al Balushi,1704079@mtc.edu.om,11974599,96290204,6.11,5,4.5,5,4.5,5,2019-04-06
+26,1802095,Zakariya,Nouh Abdul Rahim ,Al Balushi,1802095@mtc.edu.om,13294603,94060742,6.01,4,4.5,5.5,5,5,2019-04-06
+27,1805014,Mohamed,Khalfan Hamed  ,Al Barashdi,1805014@mtc.edu.om,13226266,99729413,6.04,5.5,5,5.5,5,5.5,2019-04-06
+28,1705014,Ahmed,Hamood Muhanna,Al Battashi,1705014@mtc.edu.om,13401033,94677782,6.09,5,4.5,5,5,5,2019-04-06
+29,1704023,Sanad,Said Salim,Al Battashi,1704023@mtc.edu.om,19481981,94469262,6.11,5.5,5,5,4.5,5,2019-04-06
+30,1803026,Abdulaziz,Badar Said  ,Al Bulushi,1803026@mtc.edu.om,14783579,71514105,6.15,5.5,5.5,5,5,5.5,2019-04-06
+31,1703130,Hatem,Zahir Khalfan,Al Fahdi,1703130@mtc.edu.om,18238871,94358988,6.11,5,4,5,5.5,5,2019-04-06
+32,1705038,Asim,Ali Abdullah,Al Falahi,1705038@mtc.edu.om,13102105,98824499,6.13,5,4,4.5,5.5,5,2019-04-06
+33,1803013,Ahmed,Majid Hamdan  ,Al Farai,1803013@mtc.edu.om,13047467,99316059,6.02,5,5,4,5,5,2019-04-06
+34,1803182,Al-Yazid,Badar Said  ,Al Farsi,1803182@mtc.edu.om,13263912,96243399,6.15,6,6,4.5,5.5,5.5,2019-04-06
+35,1703092,Mohammed,Hamdoon Abdallah Salim,Al Farsi,1703092@mtc.edu.om,26635906,93870510,6.04,4.5,4.5,5,5.5,5,2019-04-06
+36,1702081,Salim,Saif Salim Saif,Al Farsi,1702081@mtc.edu.om,22729808,97705154,6.06,4,4.5,4.5,4.5,4.5,2019-04-06
+37,1702319,Ibrahim ,Abdullah  Mohammed ,Alfazari ,1702319@mtc.edu.om,9430309,94424964,6.11,4.5,5,4.5,3.5,4.5,2019-04-06
+38,1702123,Ammar,Subaa Khalfan,Al Ghafri,1702123@mtc.edu.om,12638822,90120023,6.04,3.5,4.5,5,4.5,4.5,2019-04-06
+39,1702225,Mohammed,Khalfan Salim,Al Ghasani,1702225@mtc.edu.om,13335751,94469190,6.05,5,4.5,4.5,5.5,5,2019-04-06
+40,1702249,Ahmed,Mohammed Rashid,Alghuzaili,1702249@mtc.edu.om,19850925,96012068,6.12,5,4.5,5,5,5,2019-04-06
+41,1803042,Nasser,Saif Sarahan  ,Al Habsi,1803042@mtc.edu.om,13991833,97355378,6.01,4.5,5,5.5,6,5.5,2019-04-06
+42,1703021,Yousuf,Khalfan Said,Al Habsi,1703021@mtc.edu.om,17967868,93906052,6.08,5,5,5,4.5,5,2019-04-06
+43,1704066,Muatasim,Salim Abdullah,Al Hamadani,1704066@mtc.edu.om,13361066,91105857,6.07,4.5,4,4,4,4,2019-04-06
+44,1702140,Mohamed,Salim Rashid,Al Hamdani,1702140@mtc.edu.om,19033567,79078899,6.12,5,4,5,5,5,2019-04-06
+45,1702201,Hussein,Ali Sulaiman,Al Hamdi,1702201@mtc.edu.om,20213925,97324654,6.03,4.5,5,4,5,4.5,2019-04-06
+46,1802223,Osama,Hamed Nasser Hamood ,Al Hanini,1802223@mtc.edu.om,29370514,95042247,6.10,5.5,4.5,5,6.5,5.5,2019-04-06
+47,1704070,Said,Hamed Nasser Hamood,Al Hanini,1704070@mtc.edu.om,28421097,97317139,6.11,5.5,5,4.5,4.5,5,2019-04-06
+48,1805013,Abdullah,Abad 'Abdullah Badar ,Al Harrasi,1805013@mtc.edu.om,27814804,99185831,6.02,5.5,6,5,5,5.5,2019-04-06
+49,1803004,Qusay,Rashid Amur  ,Al Harthi,1803004@mtc.edu.om,13819851,96645634,6.15,5.5,4,5.5,4.5,5,2019-04-06
+50,1803037,Abdul Aziz,Ziyad Ibrahim ,Al Hasawi,1803037@mtc.edu.om,13849108,99849191,6.01,5.5,4,5.5,6.5,5.5,2019-04-06
+51,1802237,Alwaleed,Khalid Nasser Mohammed ,Al Hashimi,1802237@mtc.edu.om,14297043,94964068,6.05,5.5,4.5,5.5,6.5,5.5,2019-04-06
+52,1709001,Shihab,Ahmed Saif,Al Hasni,1709001@mtc.edu.om,12779011,92591189,6.14,5,5,5.5,5.5,5.5,2019-04-06
+53,1705070,Mohammed,Gharib Khalifa Said,Al Hattali,1705070@mtc.edu.om,28618473,95254469,6.08,3.5,3.5,5,5.5,4.5,2019-04-06
+54,1703019,Zahran,Salim Ghathiyab Marawan,Al Hattali,1703019@mtc.edu.om,12956889,96127836,6.07,3.5,4.5,5.5,5,4.5,2019-04-06
+55,1703133,Ahmed,Ali Mohammed,Al Hinai,1703133@mtc.edu.om,18921288,98951654,6.12,4.5,4,5,4.5,4.5,2019-04-06
+56,1703011,Allaith,Ibrahim Saud,Al Hinai,1703011@mtc.edu.om,19764128,95157321,6.07,4.5,4.5,5,5,5,2019-04-06
+57,1703082,Mohammed,Saif Mubarak,Al Hinai,1703082@mtc.edu.om,11599144,92635668,6.11,5.5,5,5,4,5,2019-04-06
+58,1702313,Nabail,Hassan Musabah,Al-Hosni,1702313@mtc.edu.om,25098464,93657527,6.11,5.5,5,5,5,5,2019-04-06
+59,1703119,Salim,Rashid Khalifa,Al Hosni,1703119@mtc.edu.om,19465651,98029762,6.04,5.5,4.5,5.5,5,5,2019-04-06
+60,1804010,Mohamed,Salim Mohamed  ,Al Humaidi,1804010@mtc.edu.om,13390601,95191975,6.02,5.5,5,5,5,5,2019-04-06
+61,1803074,Mohammed,Ibrahim Khalfan  ,Al Isma'Ili,1803074@mtc.edu.om,15668639,98877606,6.01,5.5,4.5,5,4.5,5,2019-04-06
+62,1702334,Husni,Mubarak Hadoob,Aljabri,1702334@mtc.edu.om,19005535,92492606,6.08,5,4.5,4,5,4.5,2019-04-06
+63,1702021,Omar,Khalifa Mohamed Nasser,Al Jabri,1702021@mtc.edu.om,22608861,93387693,6.07,5,5,4.5,4,4.5,2019-04-06
+64,1802175,Mohamed,Hilal Mohamed Salim ,Al Jahwari,1802175@mtc.edu.om,13574294,99285668,6.09,4.5,4.5,4.5,5,4.5,2019-04-06
+65,1702106,Al Gulanda,Hamood Hussein,Al Julandani,1702106@mtc.edu.om,19547586,95134281,6.05,5,4.5,5,5,5,2019-04-06
+66,1803049,Mohammed,Saud Aamir  ,Al-Julandani,1803049@mtc.edu.om,21998808,71071038,6.16,4.5,5,5.5,4.5,5,2019-04-06
+67,1702192,Al Waleed,Khalid Abdullah,Al Junaibi,1702192@mtc.edu.om,20743388,96630334,6.06,4.5,4.5,4.5,4.5,4.5,2019-04-06
+68,1703079,Ashraf,Mohammed Sulaiman Khamis,Al Kalbani,1703079@mtc.edu.om,25362983,96371584,6.04,5,5,5.5,5,5,2019-04-06
+69,1704020,Nabaa,Yousuf Khamis Khalfan,Al Khariboushi,1704020@mtc.edu.om,26525387,97755968,6.06,5,4,5,5,5,2019-04-06
+70,1704019,Hamza,Said Sulaiman Abdullah,Al Kharusi,1704019@mtc.edu.om,28209006,99282624,6.07,4.5,4,4.5,5,4.5,2019-04-06
+71,1702151,Abdul-Malik,Salim Sulaiman,Al Khatri,1702151@mtc.edu.om,22817893,97805009,6.12,4.5,4,4.5,5,4.5,2019-04-06
+72,1703052,Hossain,Ali Salim,Al Khatri,1703052@mtc.edu.om,22586121,94090045,6.16,5,5,5,5,5,2019-04-06
+73,1702183,Nasser,Hamed Said,Al Maawali,1702183@mtc.edu.om,18238528,95932889,6.12,4.5,4.5,4.5,4.5,4.5,2019-04-06
+74,1703071,Younis,Nasser Hamed Rashid,Al Majarfi,1703071@mtc.edu.om,19458959,71106021,6.07,4.5,4,5.5,4.5,4.5,2019-04-06
+75,1705046,Marwan,Mohammed Salim,Al Mamari,1705046@mtc.edu.om,12651269,97602147,6.04,4,4.5,4.5,4.5,4.5,2019-04-06
+76,1702208,Hisham,Abdullah Hamed Salim,Al Manwari,1702208@mtc.edu.om,23686067,97635762,6.08,4.5,4.5,5,5,5,2019-04-06
+77,1803153,Abdul Rahman,Salim Ahmed ,Al Masoudi,1803153@mtc.edu.om,13861158,99470794,6.15,5,5,5.5,5,5,2019-04-06
+78,1803097,Ahmed,'Amur Mohammed Saleem ,Al Mashrafi,1803097@mtc.edu.om,29657711,98862513,6.14,5,5,5.5,5,5,2019-04-06
+79,1702229,Zakariya,Ahmed Sulaiman,Al Masoudi,1702229@mtc.edu.om,11937651,97314279,6.06,4.5,4.5,4.5,4.5,4.5,2019-04-06
+80,1805007,Ahmed,Rashid Humaid  ,Al Masqari,1805007@mtc.edu.om,13687998,92008557,6.01,5.5,4,5.5,5,5,2019-04-06
+81,1803152,Adnan,Hilal Salim Rashid ,Al Masuudi,1803152@mtc.edu.om,13426709,91117481,6.02,5,5,5.5,5,5,2019-04-06
+82,1704056,Ali,Saif Ali  Rashed,Al Mazrouai,1704056@mtc.edu.om,13024005,96772787,6.15,5,5,5.5,5,5,2019-04-06
+83,1702149,Ahmed,Khamis Khatar,Al Mazroui,1702149@mtc.edu.om,17902415,97838255,6.13,4.5,4,5.5,4,4.5,2019-04-06
+84,1704035,Yousuf,Hassan Mohammed,Al Mujaini,1704035@mtc.edu.om,14756554,95072889,6.13,4.5,4,5,4.5,4.5,2019-04-06
+85,1702069,Yousuf,Mohammed Ali,Al Mujaini,1702069@mtc.edu.om,12731683,93662584,6.13,5,4.5,5,4.5,5,2019-04-06
+86,1703031,Saleh,Saif Saleh,Al Mujaizi,1703031@mtc.edu.om,13298181,93959796,6.13,4.5,4.5,5,4,4.5,2019-04-06
+87,1702316,Sulaiman,Issa Moosa,Al Naabi,1702316@mtc.edu.om,11281575,97723712,6.08,4.5,4.5,4.5,4,4.5,2019-04-06
+88,1705072,Abdul Malik,Asad Al Haj Zaid,Al Naeemi,1705072@mtc.edu.om,12823231,94183489,6.13,5,5,4.5,5,5,2019-04-06
+89,1802239,Al Zubair,Omar Zubair ,Al Noobi,1802239@mtc.edu.om,13772817,94749350,6.16,6,4,4,5.5,5,2019-04-06
+90,1803018,Marwan,Issa Salim  ,Al Omairi,1803018@mtc.edu.om,23070793,99667389,6.15,5,4.5,5.5,5.5,5,2019-04-06
+91,1704087,Mohammed,Ali Mohammed,Al Qutaiti,1704087@mtc.edu.om,12720791,99806678,6.10,4.5,5,4.5,4.5,4.5,2019-04-06
+92,1803064,Abdul Rahman,Hamad Sulaiman Juma,Al Rahbi,1803064@mtc.edu.om,28832056,95716189,6.02,5,5,5.5,4.5,5,2019-04-06
+93,1802054,Sajad,Hissam Mohamed  ,Al Rahmat,1802054@mtc.edu.om,13421357,90900660,6.08,5.5,5,4.5,5,5,2019-04-06
+94,1805021,Lowiy,Mohammed Salim  ,Al Saidi,1805021@mtc.edu.om,13689003,95494372,6.16,5,5,5.5,5,5,2019-04-06
+95,1704103,Faisal,Mohammed Ali,Alsaadi,1704103@mtc.edu.om,27682801,95654469,6.07,5,4.5,4.5,5,5,2019-04-06
+96,1802185,Ahmed,Khamis Humaid  ,Al Saeedi,1802185@mtc.edu.om,13199191,99177147,6.15,5.5,6,5.5,4.5,5.5,2019-04-06
+97,1802034,Osama,Hassan Said  ,Al Sawafi,1802034@mtc.edu.om,13427735,98877793,6.01,4.5,4.5,5,4.5,4.5,2019-04-06
+98,1704013,Faris,Salim Saaid,Al Shabibi,1704013@mtc.edu.om,17892737,91959090,6.09,4.5,3.5,4.5,5,4.5,2019-04-06
+99,1803128,Maged,Abdullah Sulaiman Mohammed ,Al Shahaimi,1803128@mtc.edu.om,20371465,94446423,6.05,5,5,5,4,5,2019-04-06
+100,1803141,Hamood,Khalifa Salim  ,Al Shekaili,1803141@mtc.edu.om,22794479,95645692,6.09,5,4.5,5,4.5,5,2019-04-06
+101,1702269,Said,Salim Ahmed,Al Shidad,1702269@mtc.edu.om,21065195,96265103,6.05,5,5,5,4.5,5,2019-04-06
+102,1703024,Mohammed,Musabah Ali Said,Al Shoukri,1703024@mtc.edu.om,14678027,97704712,6.14,5,4.5,5,4.5,5,2019-04-06
+103,1704025,Amjad,Mansoor Hamed,Al Shueili,1704025@mtc.edu.om,12944516,97198849,6.03,4.5,4.5,5,4,4.5,2019-04-06
+104,1703090,Huwaishal,Sulaiman Said Ali,Al Shuhoumi,1703090@mtc.edu.om,21342239,93746932,6.08,4.5,4.5,4.5,4.5,4.5,2019-04-06
+105,1703148,Abdullah,Mohammed Hamed,Al Shuhumi,1703148@mtc.edu.om,15482024,96338694,6.12,5,4,4.5,4.5,4.5,2019-04-06
+106,1803167,Mazin,Khalifa Mohammed  ,Al Shukaili,1803167@mtc.edu.om,13312814,91204028,6.05,5,5,5,6,5.5,2019-04-06
+107,1702071,Amran,Salim Humaid Mohammed,Al Sidairi,1702071@mtc.edu.om,19423299,94164845,6.12,5,5,4.5,4,4.5,2019-04-06
+108,1702022,Malik,Said Ali Sulaiman,Al Siyabi,1702022@mtc.edu.om,24420209,97757005,6.06,4.5,4.5,4.5,4.5,4.5,2019-04-06
+109,1702335,Mohmad,Abudallah Saif,Alsyiaby,1702335@mtc.edu.om,23886815,92893944,6.12,4,4.5,4.5,4.5,4.5,2019-04-06
+110,1705003,Sulaiman,Salim Sulaiman,Al Siyabi,1705003@mtc.edu.om,12826083,96743810,6.08,4.5,5,5,4.5,5,2019-04-06
+111,1703081,Yusef,Yaqoub Ali,Al Siyabi,1703081@mtc.edu.om,18611027,93808019,6.10,5,5,4.5,4.5,5,2019-04-06
+112,1803066,Ahmed,Khalfan Zaid Matar ,Al Subhi,1803066@mtc.edu.om,22451289,91737302,6.01,5.5,4.5,5.5,6,5.5,2019-04-06
+113,1805009,Al Moutamid,Nasser Hamood Abdullah,Al Subhi,1805009@mtc.edu.om,27771053,93905271,6.16,5.5,5.5,5.5,5,5.5,2019-04-06
+114,1706003,Ibrahim,Yahya Abbas,Al Subhi,1706003@mtc.edu.om,23030979,94346951,6.14,5,5.5,5.5,5.5,5.5,2019-04-06
+115,1803003,Khalfan,Nasser Khalfan  ,Al Subhi,1803003@mtc.edu.om,13825691,96696844,6.08,5,4.5,5,5.5,5,2019-04-06
+116,1803021,Waqas,Salam Said  ,Al Subhi,1803021@mtc.edu.om,22793458,98868788,6.16,5.5,4.5,6,5.5,5.5,2019-04-06
+117,1702124,Bashar,Hamood Humaid  Salim,Al-Sulaimi,1702124@mtc.edu.om,14726387,95950320,6.09,4.5,4.5,5,5,5,2019-04-06
+118,1805023,Majid,Said Hamed Sulaiman ,Al Sulaimi,1805023@mtc.edu.om,28452496,94232376,6.01,4.5,5.5,5,4.5,5,2019-04-06
+119,1705015,Saood,Sarhan Issa,Al Toobi,1705015@mtc.edu.om,23199054,97931612,6.06,4.5,4.5,5,4.5,4.5,2019-04-06
+120,1702060,Murshid,Rashid Masoud Said,Al Toubi,1702060@mtc.edu.om,27088289,90949149,6.07,4.5,4.5,4,4,4.5,2019-04-06
+121,1704010,Ayoob,Khalifa Said Humaid,Al Tubi,1704010@mtc.edu.om,25574711,96501182,6.06,5,4.5,4.5,4,4.5,2019-04-06
+122,1803192,Almandhar,Bati Juma Muftah ,Al Yaqoubi,1803192@mtc.edu.om,13849062,95628816,6.02,5.5,4.5,5,5,5,2019-04-06
+123,1704101,Khalid,Ahmed Said,Al-Yazeedi,1704101@mtc.edu.om,27384454,98008452,6.10,4.5,4.5,4.5,5,4.5,2019-04-06
+124,1702259,Yosef,Said Ali,Al Zawamri,1702259@mtc.edu.om,25595475,95620263,6.08,4.5,4,5,5,4.5,2019-04-06
+125,1705040,Mjed,Salim Ali Saif,Alobeidani,1705040@mtc.edu.om,27703194,99508465,6.11,5,4,5,4.5,4.5,2019-04-06
+126,1702233,Hamood,Saleem Hamood Ali,Al-Aamri,1702233@mtc.edu.om,27233489,96501182,6.06,5,4,5,5,5,2019-04-06
+127,1704041,Mahmood,Sultan Rashid,Al-Aamri,1704041@mtc.edu.om,20300402,91170241,6.16,4.5,4.5,5,5,5,2019-04-06
+128,1702010,Saif,Nasser Majid,Al-Abdali,1702010@mtc.edu.om,22815757,96639499,6.11,5,5,5,5,5,2019-04-06
+129,1704106,Abdallah,Hamdan Ali,Al-Abri,1704106@mtc.edu.om,20241338,96798575,6.11,5,5,4.5,5,5,2019-04-06
+130,1705080,Abdulhakeem,Mahkoom Zayid,Alabri,1705080@mtc.edu.om,10433615,92933305,6.13,4,5,4,5,4.5,2019-04-06
+131,1704029,Abdul Rahman,Nasser Ali,Al-Abri,1704029@mtc.edu.om,12379985,97747485,6.16,5.5,5.5,5,5.5,5.5,2019-04-06
+132,1703010,Amjad,Abdullah Mohammed,Al-Abri,1703010@mtc.edu.om,13077845,95291417,6.09,5,4,5.5,4.5,5,2019-04-06
+133,1702281,Asaad,Saeed Ali,Alabri,1702281@mtc.edu.om,11026543,94656399,6.13,4,4,4.5,5,4.5,2019-04-06
+134,1705021,Azan,Aadil Abdallah,Al-Abri,1705021@mtc.edu.om,13712596,92673322,6.05,4.5,4.5,4.5,4.5,4.5,2019-04-06
+135,1705001,Hani,Ali Sulaiman,Al-Abri,1705001@mtc.edu.om,13252856,96442747,6.08,4.5,4.5,4.5,5,4.5,2019-04-06
+136,1705022,Mohammed,Badar Nasser,Al-Abri,1705022@mtc.edu.om,14808818,97884475,6.03,4.5,4.5,4.5,5.5,5,2019-04-06
+137,1803101,Abdullah,Adnan Abdullah  ,Al-Adawi,1803101@mtc.edu.om,13902268,71599595,6.08,5,5,5,5.5,5,2019-04-06
+138,1802162,Mulhim,Khamis Ali  ,Al-Adawi,1802162@mtc.edu.om,14161021,95117825,6.10,5,5,5,5,5,2019-04-06
+139,1704109,Ahmed,Hussein Ali,Alajmi,1704109@mtc.edu.om,9328144,96682817,6.12,4.5,4.5,5,5,5,2019-04-06
+140,1809005,Hussein,Ali Marzouq  ,Al-Ajmi,1809005@mtc.edu.om,18540317,97030775,6.04,5,5,5.5,5,5,2019-04-06
+141,1803200,Muntadar,Ali Talib  ,Al-Ajmi,1803200@mtc.edu.om,17889913,95176739,6.08,4.5,5,5,5.5,5,2019-04-06
+142,1802236,Mustafa,Abdallah Mohammed  ,Al-Ajmi,1802236@mtc.edu.om,13391252,96451150,6.15,7.5,5,5.5,5.5,6,2019-04-06
+143,1804027,Zakariya,Yahya Talib  ,Al-Ajmi,1804027@mtc.edu.om,14526276,91265563,6.02,5,5,4.5,5.5,5,2019-04-06
+144,1703106,Mohammed,Hamdan Said,Al-Alawi,1703106@mtc.edu.om,12602441,98232170,6.09,5,4,4,4,4.5,2019-04-06
+145,1704065,Mohammed,Said Suweilem,Al-Alawi,1704065@mtc.edu.om,20318661,94635900,6.13,4.5,4,5,5.5,5,2019-04-06
+146,1802178,Omar,Abdul Rahim Mubarak ,Al-Alawi,1802178@mtc.edu.om,13723136,96921130,6.09,4.5,4.5,5,4.5,4.5,2019-04-06
+147,1702055,Al-Waleed,Ahmed Mohammed,Al-Amrani,1702055@mtc.edu.om,14828425,93131010,6.07,5,4,5,5,5,2019-04-06
+148,1703145,Oday,Abdullah Abdulrahman,Al-Amri,1703145@mtc.edu.om,11278005,92239390,6.12,4.5,4.5,5,5.5,5,2019-04-06
+149,1705060,Ali,Aamir Said,Al-Amri,1705060@mtc.edu.om,23733987,97087099,6.08,4.5,4,5,4,4.5,2019-04-06
+150,1702302,Muhanna,Mubarak Said,Alamri,1702302@mtc.edu.om,14298894,93370573,6.13,4,4,4.5,4,4,2019-04-06
+151,1804026,Yousuf,Yaqoob Salim  ,Al-Amri,1804026@mtc.edu.om,15578767,98769622,6.14,5,4,5.5,6,5,2019-04-06
+152,1803144,Nasser,Ali Bakhit  ,Al-Ashkhari,1803144@mtc.edu.om,13422607,96673023,6.14,6,6.5,6,6,6,2019-04-06
+153,1705009,Yousuf,Saif Said,Al-Aufi,1705009@mtc.edu.om,18234848,90239234,6.10,4.5,5,5,4.5,5,2019-04-06
+154,1702288,Mohammed,Ali Shaikhan,Al-Badaai,1702288@mtc.edu.om,13839129,92605349,6.05,5,4.5,5.5,5,5,2019-04-06
+155,1703102,Hamed,Mohamed Hamed Humaid,Al-Badi,1703102@mtc.edu.om,12628524,97109228,6.10,5,4.5,5.5,4.5,5,2019-04-06
+156,1702324,Maktoom,Rashid Khalfan,Albadi,1702324@mtc.edu.om,11556873,92312446,6.08,4.5,4.5,5.5,5,5,2019-04-06
+157,1704043,Husam,Khamis Gharib Rashid,Al-Badowi,1704043@mtc.edu.om,13145136,97511927,6.13,4.5,4.5,5,5,5,2019-04-06
+158,1802023,Ahmed,Badar Mohamed,Al-Barwani,1802023@mtc.edu.om,13545911,97390193,6.15,5.5,5,5,5.5,5.5,2019-04-06
+159,1704072,Idris,Khamis Hamed,Al-Brashdi,1704072@mtc.edu.om,11737943,71111546,6.07,4.5,4.5,5,5,5,2019-04-06
+160,1702174,Ali,Said Salim,Al-Breiki,1702174@mtc.edu.om,22002886,96400169,6.04,5,4,4.5,5,4.5,2019-04-06
+161,1704080,Mohammed,Juma Obaid,Al-Breiki,1704080@mtc.edu.om,13635221,99116630,6.03,5,4.5,4.5,4.5,4.5,2019-04-06
+162,1803043,Ahmed,Khamis Marash  ,Al-Busaidi,1803043@mtc.edu.om,19741591,93157675,6.16,5.5,5,6,6,5.5,2019-04-06
+163,1705048,Ahmed,Masoud Ali Salim,Al-Dowaiki,1705048@mtc.edu.om,23490119,98898311,6.10,4,4,3.5,4.5,4,2019-04-06
+164,1802235,Said,Nasser Mohammed  ,Al-Fana,1802235@mtc.edu.om,13603078,93983899,6.04,5.5,4.5,5.5,6,5.5,2019-04-06
+165,1702024,Al-Fadhal,Ahmed Habib,Al-Farsi,1702024@mtc.edu.om,18118048,90606078,6.06,4,4.5,4.5,5,4.5,2019-04-06
+166,1803109,Hamed,Saud Nasser  ,Al-Farsi,1803109@mtc.edu.om,13369453,99542476,6.02,5.5,5,5,5.5,5.5,2019-04-06
+167,1705055,Liyth,Ibrahim Mubarak,Al-Farsi,1705055@mtc.edu.om,12867934,92081418,6.13,4.5,4.5,5,5,5,2019-04-06
+168,1803008,Mohamed,Ahmed Ali  ,Al-Farsi,1803008@mtc.edu.om,4741349,99022379,6.15,7.5,6.5,5.5,7,6.5,2019-04-06
+169,1702212,Khalid,Hammad Said Rashid ,Al-Ghafri,1702212@mtc.edu.om,12820867,95946408,6.12,5,5,5.5,5.5,5.5,2019-04-06
+170,1802021,Ghaith,Hamed Amur,Al-Ghaithi,1802021@mtc.edu.om,14569166,92953308,6.01,5.5,5,5,5.5,5.5,2019-04-06
+171,1703067,Ahmed,Said Mohammed,Al-Gheilani,1703067@mtc.edu.om,12916288,71717484,6.12,5,4,4.5,6,5,2019-04-06
+172,1704039,Ali,Said Ali Issa,Al-Ghenaimi,1704039@mtc.edu.om,20820097,94047812,6.06,4.5,5,5.5,4.5,5,2019-04-06
+173,1702079,Abdul Rahman,Sawif Humaid,Al-Habsi,1702079@mtc.edu.om,12595193,97028168,6.04,5,5,4.5,5.5,5,2019-04-06
+174,1704044,Al-Yaqadhan,Rashid Khalfan Obaid,Al-Habsi,1704044@mtc.edu.om,19500818,94363438,6.13,4.5,4.5,5,5,5,2019-04-06
+175,1701001,Abdullah,Mohammed Said,Al-Hadhrami,1701001@mtc.edu.om,13040513,91612747,6.04,5,4.5,4.5,5,5,2019-04-06
+176,1803124,Amur,Mohammed Said Mohammed ,Al-Hajri,1803124@mtc.edu.om,19466442,94498710,6.01,4.5,5,4.5,4.5,4.5,2019-04-06
+177,1703059,Mohammed,Rashid Hamed Rashid,Al-Hajri,1703059@mtc.edu.om,13800497,98222382,6.09,4.5,4.5,4.5,4,4.5,2019-04-06
+178,1803010,Mohammed,Yahya Saleh  ,Al-Hajri,1803010@mtc.edu.om,13725061,97837767,6.14,6,5,5.5,6,5.5,2019-04-06
+179,1702162,Nawaf,Said Mabrook,Al-Hajri,1702162@mtc.edu.om,13711837,93254992,6.12,4,5,5,4.5,4.5,2019-04-06
+180,1704111,Abdullah,Mohammed Aziz,Al-Harrasi,1704111@mtc.edu.om,10756482,99448854,6.09,4.5,4.5,4.5,4.5,4.5,2019-04-06
+181,1702133,Al-Waleed,Aadil Mohammed,Al-Harrasi,1702133@mtc.edu.om,11258474,95677211,6.10,4.5,3.5,4.5,5,4.5,2019-04-06
+182,1809001,Al-Waleed,Khalid Hamood  ,Al-Harthi,1809001@mtc.edu.om,13461269,95322490,6.02,5.5,4.5,6,5.5,5.5,2019-04-06
+183,1802101,Amjad,Salim Ahmed Mohammed ,Al-Harthi,1802101@mtc.edu.om,13483728,91155719,6.01,5.5,5,5,6,5.5,2019-04-06
+184,1704046,Rashid,Obaid Surur Abdullah,Al-Harthi,1704046@mtc.edu.om,11991092,91450885,6.11,4.5,5,5.5,5,5,2019-04-06
+185,1802070,Muhannad,Salim Abdullah  ,Al-Hasani,1802070@mtc.edu.om,15287988,94625886,6.05,4.5,4.5,5,5,5,2019-04-06
+186,1803098,Salim,Talib Salim  ,Al-Hashemi,1803098@mtc.edu.om,13729922,95147655,6.02,5,5,5,5,5,2019-04-06
+187,1803014,Samir,Zayid Shamis  ,Al-Hashemi,1803014@mtc.edu.om,20792609,96996594,6.16,5.5,4.5,4.5,5.5,5,2019-04-06
+188,1702301,Ibrahim,Khalaf Sulaiman,Al-Hattali,1702301@mtc.edu.om,23010214,95965992,6.08,4.5,4.5,4.5,4,4.5,2019-04-06
+189,1709005,'Amur,Saud Amur,Al-Hinaai,1709005@mtc.edu.om,20311192,99481107,6.12,5,3.5,5,5,4.5,2019-04-06
+190,1804019,Al-Muntaser,Hamood Salim  ,Al-Hinaai,1804019@mtc.edu.om,14830777,79026079,6.15,5,5,5,5,5,2019-04-06
+191,1803116,Azzan,Qais Ibrahim Saud ,Al-Hinaai,1803116@mtc.edu.om,12892917,90659956,6.14,5.5,5.5,5.5,6,5.5,2019-04-06
+192,1702250,Jamal,Hashil Bati,Alhinaai,1702250@mtc.edu.om,15421817,92756787,6.03,4.5,4,4.5,5.5,4.5,2019-04-06
+193,1703017,Shadhan,Sulaiman Khalaf,Al-Hinaai,1703017@mtc.edu.om,22962301,96287323,6.04,4.5,5,5,4,4.5,2019-04-06
+194,1703103,Al-Moatasem,Humaid Nasser,Al-Housni,1703103@mtc.edu.om,20295093,95535251,6.13,5,5,5,4.5,5,2019-04-06
+195,1802110,Qais,Abdallah Saif Abdallah ,Al-Housni,1802110@mtc.edu.om,22832915,91464632,6.04,5,4.5,4.5,5,5,2019-04-06
+196,1803045,Maadh,Mohammed Hamdan  ,Al-Jabri,1803045@mtc.edu.om,13876284,91223985,6.14,5.5,7,5.5,5,6,2019-04-06
+197,1703099,Mohammed,Salim Suhail,Al-Jabri,1703099@mtc.edu.om,13382537,93953393,6.07,5,5.5,4.5,4.5,5,2019-04-06
+198,1702119,Omer,Abdallah Mohammed  Salim,Al-Jabri,1702119@mtc.edu.om,19788826,92610194,6.03,4.5,5,5,4,4.5,2019-04-06
+199,1702005,Hamed,Yahya Hamed,Al-Julandani,1702005@mtc.edu.om,11941796,91195562,6.03,5,4.5,5,4.5,5,2019-04-06
+200,1704093,Ali,Saif Rashid,Al-Kaabi,1704093@mtc.edu.om,12750086,92131004,6.12,5.5,4.5,5,5,5,2019-04-06
+201,1802004,Abdul Aziz,Sulaiman Abdul Wahab,Al-Kazrauni,1802004@mtc.edu.om,13440946,98890483,6.07,5,4.5,5,5,5,2019-04-06
+202,1804028,Abdul Aziz,Saif Salim ,Al-Kendi,1804028@mtc.edu.om,13488631,97707649,6.05,4.5,5,5,5,5,2019-04-06
+203,1702297,Jaber,Mohammed Saif,Al-Khaifi,1702297@mtc.edu.om,18981303,92092557,6.05,4.5,4.5,5,4.5,4.5,2019-04-06
+204,1702248,Moawiya,Mohammed Ahmed,Al-Khaldi,1702248@mtc.edu.om,14567687,93545577,6.10,5,3.5,5,4.5,4.5,2019-04-06
+205,1703033,Azan,Ali Rabia,Al-Khatri,1703033@mtc.edu.om,19443824,92197297,6.12,4.5,4,5,4.5,4.5,2019-04-06
+206,1703147,Hazaa,Talib Salem,Alkhawalde,1703147@mtc.edu.om,10001241,96552436,6.11,4,4.5,5,4.5,4.5,2019-04-06
+207,1803028,Mohammed,Munir Amur  ,Al-Khusaibi,1803028@mtc.edu.om,14105867,95672191,6.02,4.5,4.5,5,5.5,5,2019-04-06
+208,1704082,Mohammed,Rashid Ali,Al-Kiyumi,1704082@mtc.edu.om,12709162,91229594,6.14,4.5,4.5,5,5,5,2019-04-06
+209,1803145,Riyadh,Mahfoodh Mubarak  ,Al-Kiyumi,1803145@mtc.edu.om,19834052,93810150,6.05,5,4.5,4.5,5,5,2019-04-06
+210,1802080,Mohamed,Mubarak Salim  ,Al-Maashari,1802080@mtc.edu.om,14782839,97916345,6.02,6,4.5,6,5.5,5.5,2019-04-06
+211,1803044,Ahmed,Khamis Ghareeb  ,Al-Maawali,1803044@mtc.edu.om,18620407,91213908,6.01,5,5,5,5,5,2019-04-06
+212,1702266,Mohannad,Hamood Mohammed,Almawali,1702266@mtc.edu.om,10712022,93939535,6.13,4.5,4.5,5.5,5,5,2019-04-06
+213,1702063,Salim,Khalid Salim,Al-Madailwi,1702063@mtc.edu.om,14744777,96636398,6.08,4.5,4,4.5,5,4.5,2019-04-06
+214,1702072,Muhanad,Musallam Sloum Musallam,Al-Mahrezi,1702072@mtc.edu.om,12727341,92373998,6.06,4.5,4,5,4.5,4.5,2019-04-06
+215,1705006,Ahmed,Salim Khalifa,Al-Mahrouqi,1705006@mtc.edu.om,21950917,91720008,6.06,4.5,4.5,5,5,5,2019-04-06
+216,1703008,Al-Khalil,Ahmed Sabih,Al-Majizi,1703008@mtc.edu.om,12383248,93266626,6.09,4.5,4,5,5.5,5,2019-04-06
+217,1802068,Malik,Said Khamis  ,Al-Malki,1802068@mtc.edu.om,12631386,92610920,6.16,6,5,5.5,6,5.5,2019-04-06
+218,1803107,Abdul Maaz,Hassan Abdallah ,Al-Mamari,1803107@mtc.edu.om,13420388,91182125,6.16,5,4.5,4.5,6.5,5,2019-04-06
+219,1702317,Ahmed,Salim Saif,Al-Mamari,1702317@mtc.edu.om,10270405,92836218,6.03,5,4.5,4.5,5,5,2019-04-06
+220,1803083,Khalid,Abdallah Mohammed  ,Al-Mamari,1803083@mtc.edu.om,13608492,97707912,6.02,5,5,6,5,5.5,2019-04-06
+221,1803112,Salim,Nasser Saleh  ,Al-Mamari,1803112@mtc.edu.om,18144765,91791209,6.02,4.5,5,5,5,5,2019-04-06
+222,1803204,Ahmed,Khamis Said Obaid ,Al-Manai,1803204@mtc.edu.om,13582948,98774040,6.02,5,5,4.5,5,5,2019-04-06
+223,1802112,Abdallah,Khamis Obaid  ,Al-Maqbali,1802112@mtc.edu.om,13757419,97811865,6.05,5,4.5,4.5,5.5,5,2019-04-06
+224,1702258,Omar,Mohammed Abdallah,Al-Maqbali,1702258@mtc.edu.om,11614433,79318899,6.02,5,3.5,4.5,5,4.5,2019-04-06
+225,1802111,Ashraf,Sultan Saif  ,Al-Maqbali,1802111@mtc.edu.om,14952755,95803290,6.07,3.5,5,5,5,4.5,2019-04-06
+226,1702226,Salim,Ali Salim Mohammed,Al-Maqbali,1702226@mtc.edu.om,12112956,96286638,6.03,4.5,4.5,4.5,4.5,4.5,2019-04-06
+227,1702217,Najeeb,Abdallah Khadim,Al-Mashaykhi,1702217@mtc.edu.om,22034457,92892389,6.11,4.5,3.5,4.5,5,4.5,2019-04-06
+228,1702107,Ahmed,Saleh Said Amur,Al-Maskari,1702107@mtc.edu.om,22816342,95841814,6.16,5,4.5,5,5,5,2019-04-06
+229,1802105,Abdul Rahman,Salim Saif ,Al-Mezeini,1802105@mtc.edu.om,13052867,79159666,6.01,5,4.5,5,5.5,5,2019-04-06
+230,1803061,Ibrahim,Ali Sinan  ,Al-Mughairi,1803061@mtc.edu.om,61954347,90133857,6.05,5.5,5,5,4.5,5,2019-04-06
+231,1705035,Abdul Rahman,Mohammed Said,Al-Mujaini,1705035@mtc.edu.om,12148578,94154257,6.10,5,4,5,4.5,4.5,2019-04-06
+232,1803114,Abdallah,Khamis Juma  ,Al-Mukhaini,1803114@mtc.edu.om,13181846,93280530,6.01,5,4.5,5.5,5,5,2019-04-06
+233,1705067,Salah,Abdul Rahman Mohammed,Al-Naaimi,1705067@mtc.edu.om,12673325,93616678,6.11,5,4.5,5.5,5,5,2019-04-06
+234,1703135,Muhannad,Yousuf Abdullah,Al-Annmani,1703135@mtc.edu.om,10367977,99137216,6.05,4,5,4,4,4.5,2019-04-06
+235,1704021,Muhanad,Hamood Said,Al-Nabhani,1704021@mtc.edu.om,11397835,97211451,6.12,4,4,4.5,4,4,2019-04-06
+236,1704108,Mohammed,Juma Said,Alnadhiri,1704108@mtc.edu.om,10060367,96217637,6.13,4,5,4,4,4.5,2019-04-06
+237,1702054,Al-Warith,Khalid Saif,Al-Nakhili,1702054@mtc.edu.om,12686986,98031910,6.13,4.5,4,3,4,4,2019-04-06
+238,1805010,Majid,Mahfoodh Nasser  ,Al-Oraimi,1805010@mtc.edu.om,18510366,95983773,6.05,5,4.5,4.5,4,4.5,2019-04-06
+239,1704052,Younis,Mohammed Said,Al-Owaisi,1704052@mtc.edu.om,21995338,95720082,6.10,4.5,4,5,4.5,4.5,2019-04-06
+240,1804036,Abdallah,Said Obaid  ,Al-Qartoubi,1804036@mtc.edu.om,17913307,92805979,6.05,5,5,5.5,4.5,5,2019-04-06
+241,1702132,Fahad,Khamis Ali Saif,Al-Qayoudhi,1702132@mtc.edu.om,23033343,98092871,6.10,5,4.5,5,4.5,5,2019-04-06
+242,1704092,Mazin,Salim Mubarak,Al-Quraini,1704092@mtc.edu.om,12288698,93739359,6.03,5,3.5,5,4,4.5,2019-04-06
+243,1804018,Omar,Abdullah Dhuhai  ,Al-Qutaiti,1804018@mtc.edu.om,15179711,94215002,6.02,4,5,5.5,4.5,5,2019-04-06
+244,1702213,Abdul Rahman,Mohammed Khalfan,Al-Radini,1702213@mtc.edu.om,13326422,95452262,6.10,4.5,4.5,3.5,4.5,4.5,2019-04-06
+245,1702091,Abdul Hameed,Mohammed Ali Mas'Oud,Al-Rahbi,1702091@mtc.edu.om,28908029,93803103,6.04,4.5,4,5,4.5,4.5,2019-04-06
+246,1803040,Hamed,Ali Bakhit  ,Al-Rahbi,1803040@mtc.edu.om,19445228,97668488,6.02,5,5,5,4.5,5,2019-04-06
+247,1703032,Khalid,Hamood Khalfan,Al-Rahbi,1703032@mtc.edu.om,14613297,98273283,6.07,5,4.5,4.5,4.5,4.5,2019-04-06
+248,1703040,Ahmed,Hamed Sulaiman,Al-Rajhi,1703040@mtc.edu.om,21405692,97607776,6.07,5,4.5,5,4,4.5,2019-04-06
+249,1803038,Waleed,Mohamed Abdullah  ,Al-Ramadhani,1803038@mtc.edu.om,13039183,95658489,6.02,5,4,5.5,5,5,2019-04-06
+250,1702246,Al-Maqdad,Abdallah Musalem,Al-Rasbi,1702246@mtc.edu.om,12633287,96261998,6.12,4.5,5,5,5,5,2019-04-06
+251,1803134,Mohammed,Ahmed Ali  ,Al-Rashdi,1803134@mtc.edu.om,13670221,95443373,6.01,4.5,5,5,6,5,2019-04-06
+252,1705068,Harith,Fahad Nasser,Al-Risi,1705068@mtc.edu.om,11588693,96998982,6.10,5.5,4.5,5.5,5,5,2019-04-06
+253,1702210,Younis,Majid Nasser,Al-Rubaiai,1702210@mtc.edu.om,12172086,98140552,6.06,5,4,5,4.5,4.5,2019-04-06
+254,1702082,Hamood,Khalfan Suweilem Khalfan,Al-Ruzeiqi,1702082@mtc.edu.om,22804373,93302783,6.16,6,5,5,5.5,5.5,2019-04-06
+255,1704047,Said,Aamir Eid Said,Al-Saifi,1704047@mtc.edu.om,22868912,98849056,6.11,4.5,4.5,4.5,4.5,4.5,2019-04-06
+256,1803078,Mohammed,Nasser Surur Saleh ,Al-Salmi,1803078@mtc.edu.om,13635535,94394031,6.07,4.5,4,5,5,4.5,2019-04-06
+257,1803046,Said,Ahmed Yousuf  ,Al-Salmi,1803046@mtc.edu.om,22802026,95276760,6.15,5.5,5.5,5.5,5.5,5.5,2019-04-06
+258,1704060,Said,Khalfan Said,Al-Salmi,1704060@mtc.edu.om,13288267,95531763,6.03,4.5,5,5,4.5,5,2019-04-06
+259,1702015,Sulaiman,Juma Sulaiman,Al-Salti,1702015@mtc.edu.om,14258414,96505643,6.11,4.5,5,4.5,5,5,2019-04-06
+260,1702228,Rashid,Ahmed Rashid,Al-Senani,1702228@mtc.edu.om,12524955,99517297,6.11,5,4,4,4.5,4.5,2019-04-06
+261,1802200,Said,'Abdallah Said Salim ,Al-Shabibi,1802200@mtc.edu.om,14558766,94069606,6.05,5,4,4.5,4,4.5,2019-04-06
+262,1705054,Ali,Sulaiman Masoud,Al-Shahi,1705054@mtc.edu.om,12356223,79023779,6.06,4.5,5,4,4,4.5,2019-04-06
+263,1703113,Mohammed,Ali Abdallah,Al-Shahi,1703113@mtc.edu.om,12205193,99096908,6.12,5,5,5.5,5,5,2019-04-06
+264,1803183,Ali,Abdullah Ali  ,Alshamsi,1803183@mtc.edu.om,12910533,97155284,6.07,4.5,5,5,5,5,2019-04-06
+265,1702216,Ibrahim,Said Khalfan  Salim,Al-Shaqsi,1702216@mtc.edu.om,12332003,95433009,6.11,5,5,5,5,5,2019-04-06
+266,1705041,Omar,Saleh Sulaiyam,Al-Shaqsi,1705041@mtc.edu.om,13568219,97739369,6.13,5,4.5,5,4.5,5,2019-04-06
+267,1703118,Al Mohanad,Yousuf Abdul Fattah,Al-Shezawi,1703118@mtc.edu.om,14099696,93965235,6.14,5,4,4,4.5,4.5,2019-04-06
+268,1809004,Mohammed,Ali Salim  ,Al-Shezawi,1809004@mtc.edu.om,14867279,95644468,6.14,6.5,6.5,6,6,6.5,2019-04-06
+269,1803130,Dawood,Sulaiman Hamed  ,Al-Shibli,1803130@mtc.edu.om,14046301,97606803,6.02,5,4.5,4.5,4.5,4.5,2019-04-06
+270,1802265,Mohammed,Ali Humaid  ,Al-Shibli,1802265@mtc.edu.om,13244975,96707990,6.10,5.5,4.5,5,5.5,5,2019-04-06
+271,1702134,Al Muatasim,Mohammed Hamood,Al-Shukairi,1702134@mtc.edu.om,11994562,95790276,6.09,4.5,3.5,4,4,4,2019-04-06
+272,1702036,Al-Muntaser,Sulaiman Salim Mohammed,Al-Siyabi,1702036@mtc.edu.om,23746133,90620355,6.09,4.5,4.5,4.5,4.5,4.5,2019-04-06
+273,1704048,Hamed,Said 'Abdallah Kharboush,Al-Siyabi,1704048@mtc.edu.om,14496939,97541566,6.11,5,4.5,5.5,5,5,2019-04-06
+274,1703137,Rashid,Humaid Harib,Alsiyab,1703137@mtc.edu.om,22843648,95521990,6.07,4,5,4.5,4.5,4.5,2019-04-06
+275,1704031,Salim,Saif Salim,Al-Siyabi,1704031@mtc.edu.om,20781877,91972141,6.03,4.5,4.5,4.5,4,4.5,2019-04-06
+276,1703016,Mahnad,Sulaiman Mubarak Habib,Al-Sulaimi,1703016@mtc.edu.om,12421296,93799735,6.07,4.5,4,4,5,4.5,2019-04-06
+277,1702242,Sanad,Salim Khalfan,Al-Sulaimi,1702242@mtc.edu.om,12665566,93699762,6.14,5,5,5,4.5,5,2019-04-06
+278,1703001,Mashal,Said Khamis,Al-Toubi,1703001@mtc.edu.om,21980644,96755119,6.03,5,4.5,5,4.5,5,2019-04-06
+279,1802029,Ahmed,Mubarak Ahmed Hamood,Al-Wahaibi,1802029@mtc.edu.om,23345983,97818104,6.03,5,4.5,4.5,5.5,5,2019-04-06
+280,1805011,Mahmood,Mohammed Hamed  ,Al-Wahaibi,1805011@mtc.edu.om,13987098,92758899,6.02,5.5,5.5,5.5,5.5,5.5,2019-04-06
+281,1705063,Mohammed,Khalifa Marhoon,Al-Yaaqoubi,1705063@mtc.edu.om,12800913,98982960,6.09,4.5,4,4.5,5,4.5,2019-04-06
+282,1702088,Azan,Thani Bakhit,Al-Yaaribi,1702088@mtc.edu.om,12574246,71593921,6.12,4.5,4.5,4.5,5.5,5,2019-04-06
+283,1702103,Mahmood,Juma Abdallah,Al-Yaaribi,1702103@mtc.edu.om,12341313,98258781,6.04,4.5,4,4.5,5,4.5,2019-04-06
+284,1701014,Rashid,Mohammed Rashid,Al-Yahyai,1701014@mtc.edu.om,12983431,95127370,6.13,4.5,4,5,5.5,5,2019-04-06
+285,1702199,Mahmood,Amran Ali,Al-Zaabi,1702199@mtc.edu.om,19821695,97360286,6.14,5.5,4.5,5,5.5,5,2019-04-06
+286,1702166,Mazin,Abdullah Ali Abdullah,Al-Zadjali,1702166@mtc.edu.om,11808283,95844672,6.13,3.5,4.5,4.5,5.5,4.5,2019-04-06
+287,1703069,Sulaiman,Hamdan Sulaiman,Al-Zadjali,1703069@mtc.edu.om,13919116,96621610,6.09,4.5,4,5,4.5,4.5,2019-04-06
+288,1802077,Aflah,Abdallah Aamir  ,Allouyahi,1802077@mtc.edu.om,13756671,99581039,6.10,4.5,4.5,5.5,5,5,2019-04-06
+289,1803072,Abdul-Malik,Saif Said  ,Alsaidi,1803072@mtc.edu.om,13460534,91124783,6.03,4.5,4.5,5.5,5.5,5,2019-04-06
+290,1703117,Haytham,Hamed Salim Hamed,Alsa'Idi,1703117@mtc.edu.om,27981443,91298412,6.09,5,5,5.5,5.5,5.5,2019-04-06
+291,1805019,Saif,Hilal Badar  ,Alsaidi,1805019@mtc.edu.om,14157218,98833403,6.16,5.5,5.5,5,6,5.5,2019-04-06
+292,1705089,Aseel,Awagh Saayid,Alyaqoobi,1705089@mtc.edu.om,11124864,95356753,6.10,4.5,4,4.5,4.5,4.5,2019-04-06
+293,1705033,Murshid,Nasser Rashid,Aulad Thani,1705033@mtc.edu.om,18240603,95920747,6.04,5,4,4,4.5,4.5,2019-04-06
+294,1702232,Abdullah,Siddiq Salim,Bait Obaid,1702232@mtc.edu.om,11677774,93699886,6.12,4,4.5,4,5.5,4.5,2019-04-06
+295,1702057,Nasser,Arif Nasser,Bani Uraba,1702057@mtc.edu.om,12617308,97405670,6.03,5,4.5,5,5,5,2019-04-06
+296,1705059,Qosay,Mohammed Ahmed,Jahrir Alshahri,1705059@mtc.edu.om,23029334,90615725,6.04,4.5,5,5.5,5,5,2019-04-06

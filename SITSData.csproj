@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+    <PackageReference Include="CsvHelper" Version="12.2.1" />
+    <PackageReference Include="EPPlus" Version="4.5.3.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntityCore\EntityCore.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="BaseApps\" />
+    <Folder Include="CSV\" />
+    <Folder Include="Models\" />
+    <Folder Include="Models\CSVImports\" />
+    <Folder Include="CSV\StudentModuleLists\" />
+    <Folder Include="Excel\" />
+    <Folder Include="CSV\IELTS_RESULTS\" />
+    <Folder Include="Services\" />
+    <Folder Include="Models\LogViews\" />
+    <Folder Include="Models\Abstract\" />
+    <Folder Include="Models\Test\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Services\IEmailSender.cs" />
+    <Compile Remove="Services\EmailSender.cs" />
+  </ItemGroup>
+</Project>
