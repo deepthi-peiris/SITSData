@@ -17,7 +17,7 @@ namespace SITSData.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=boe;User Id=sa;Password=Kotte@293");
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=xxxxxx;User Id=sa;Password=xxxxxx");
             //optionsBuilder.EnableSensitiveDataLogging();
             
         }
